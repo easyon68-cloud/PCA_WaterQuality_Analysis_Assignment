@@ -1,0 +1,53 @@
+# ============================================================================
+# REQUIREMENTS.TXT - PCA Water Potability Analysis
+# ============================================================================
+# Install all dependencies using: pip install -r requirements.txt
+# ============================================================================
+
+# Core numerical computing library
+numpy>=1.21.0
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Data visualization - plotting
+matplotlib>=3.4.0
+
+# Statistical data visualization
+seaborn>=0.11.0
+
+# Machine learning library (including PCA)
+scikit-learn>=0.24.0
+
+# Jupyter support (if running locally)
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+
+# Optional but recommended
+# For better notebooks and visualizations
+ipython>=7.0.0
+notebook>=6.0.0
+
+# Data analysis tools
+scipy>=1.7.0
+
+# For interactive visualizations
+plotly>=5.0.0
+
+# ============================================================================
+# INSTALLATION INSTRUCTIONS:
+# ============================================================================
+# 
+# Option 1: Install all at once
+#   pip install -r requirements.txt
+#
+# Option 2: Install individually
+#   pip install numpy pandas matplotlib seaborn scikit-learn
+#
+# Option 3: Using conda
+#   conda install numpy pandas matplotlib seaborn scikit-learn
+#
+# Option 4: For Google Colab (already included)
+#   No installation needed - all libraries pre-installed!
+#
+# ============================================================================
